@@ -1,4 +1,4 @@
-# javacript-challenge
+# javacript-challenge: UFO sighting
 
 *Background*
 
