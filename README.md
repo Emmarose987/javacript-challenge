@@ -14,4 +14,5 @@ You can handle this... right? The planet Earth needs to know what we have found!
 -Create a custom HTML web page 
 
 -Write code that appendsa table to your web page and then adds new rows for data for each UFO sighting.
+
 -Use data for the HTML document and write JavaScript code that will listen for events and match user info.
